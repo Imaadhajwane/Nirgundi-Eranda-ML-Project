@@ -1,6 +1,4 @@
 
----
-
 # Nirgundi and Eranda ML Project
 
 Welcome to the Nirgundi and Eranda ML Project! This repository contains the work for my major project in the final year, focusing on plant health detection for Nirgundi and Erenda leaves.
@@ -13,6 +11,7 @@ The project aims to develop a machine learning model for detecting the health st
 
 - **Literature Survey**: A PDF document providing an in-depth literature review of the methodologies and background information relevant to the project.
 - **UML Diagrams**: A folder containing the following diagrams that outline the system's design and architecture:
+```
   - **System Architecture Diagram**
   - **Data Flow Diagrams**
   - **Use Case Diagram**
@@ -22,22 +21,13 @@ The project aims to develop a machine learning model for detecting the health st
   - **Deployment Diagram**
   - **Component Diagram**
   - **Class Diagram**
+```
 
 ## Getting Started
 
 To get started with this project, please review the literature survey and UML diagrams to understand the system's architecture and design.
 
-## Future Work
 
-Further analysis and implementation details will be updated in this repository as the project progresses.
-
-## Dataset
-
-Will be provided at the end of the Project.
-
-## Python Notebook File
-
-Will be provided at the end of the Project.
 
 ## License
 
