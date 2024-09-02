@@ -5,7 +5,7 @@ Welcome to the Nirgundi and Eranda ML Project! This repository contains the work
 
 ## Overview
 
-The project aims to develop a machine learning model for detecting the health status of Nirgundi and Erenda leaves using advanced image analysis techniques.
+The project aims to develop a machine learning model for detecting the health status of Nirgundi and Erenda leaves using advanced image analysis techniques. 
 
 ## Contents
 
